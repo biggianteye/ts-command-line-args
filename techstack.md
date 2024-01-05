@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [biggianteye/ts-command-line-args](https://github.com/biggianteye/ts-command-line-args)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|12/14/23 <br/>Report generated|
+|30<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -151,9 +151,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (18)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (18)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -162,6 +162,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.29.0|04/12/23|Giles Roadnight |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.29.0|04/12/23|Giles Roadnight |BSD-2-Clause|N/A|
 |[ansi-regex](https://www.npmjs.com/ansi-regex)|v5.0.1|11/01/21|GIles Roadnight |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|11/08/20|unknown |MIT|N/A|
 |[command-line-args](https://www.npmjs.com/command-line-args)|v5.2.1|05/10/22|Giles Roadnight |MIT|N/A|
 |[command-line-usage](https://www.npmjs.com/command-line-usage)|v6.1.3|05/10/22|Giles Roadnight |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v6.5.1|05/21/22|Giles Roadnight |MIT|N/A|

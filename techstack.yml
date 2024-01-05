@@ -1,11 +1,12 @@
 repo_name: biggianteye/ts-command-line-args
 report_id: aaad770fa58180c89ea60b1ed2d0094c
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T18:08:07+00:00'
+timestamp: '2024-01-05T08:22:30+00:00'
 requested_by: Roaders
 provider: github
 branch: main
-detected_tools_count: 29
+detected_tools_count: 30
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args/blob/main/package.json
   detection_source: package.json
   last_updated_by: GIles Roadnight
   last_updated_on: 2021-11-01 05:15:44.000000000 Z
@@ -48,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args/blob/main/package.json
   detection_source: package.json
   last_updated_by: unknown
   last_updated_on: 2020-08-02 11:56:48.000000000 Z
@@ -59,6 +64,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -68,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args/blob/main/.github/workflows/build.yml
   detection_source: ".github/workflows/build.yml"
   last_updated_by: Roaders
   last_updated_on: 2021-01-23 09:22:49.000000000 Z
@@ -107,6 +114,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args/blob/main/package.json
   detection_source: package.json
   last_updated_by: unknown
   last_updated_on: 2020-08-02 11:56:48.000000000 Z
@@ -129,6 +137,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args/blob/main/package.json
   detection_source: package.json
   last_updated_by: unknown
   last_updated_on: 2020-11-08 08:59:53.000000000 Z
@@ -202,6 +211,20 @@ tools:
   detection_source: package.json
   last_updated_by: GIles Roadnight
   last_updated_on: 2021-11-01 10:57:13.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/biggianteye/ts-command-line-args/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: unknown
+  last_updated_on: 2020-11-08 08:59:53.000000000 Z
 - name: command-line-args
   description: A mature
   package_url: https://www.npmjs.com/command-line-args

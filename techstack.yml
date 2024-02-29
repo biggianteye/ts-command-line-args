@@ -2,7 +2,7 @@ repo_name: biggianteye/ts-command-line-args
 report_id: aaad770fa58180c89ea60b1ed2d0094c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:22:30+00:00'
+timestamp: '2024-02-29T19:03:55+00:00'
 requested_by: Roaders
 provider: github
 branch: main
@@ -93,7 +93,7 @@ tools:
   last_updated_by: unknown
   last_updated_on: 2020-08-02 11:56:48.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
